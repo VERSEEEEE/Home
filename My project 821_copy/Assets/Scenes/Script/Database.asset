@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2aa74d7d8641ff348b6446d8f8c809fb, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  objectsData:
+  - <Name>k__BackingField: bed
+    <ID>k__BackingField: 0
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: d13cdfd2a832b394aae70f7526e4d949,
+      type: 3}
+  - <Name>k__BackingField: Vase
+    <ID>k__BackingField: 1
+    <Size>k__BackingField: {x: 1, y: 1}
+    <Prefab>k__BackingField: {fileID: 5058971889839408967, guid: 2ad000dab9a13804d93c8fcee761f739,
+      type: 3}
+  - <Name>k__BackingField: chair
+    <ID>k__BackingField: 2
+    <Size>k__BackingField: {x: 2, y: 2}
+    <Prefab>k__BackingField: {fileID: 492245621828925112, guid: d61cb084cf8b2b44986e5bd7d9d4b525,
+      type: 3}
+  - <Name>k__BackingField: Table
+    <ID>k__BackingField: 3
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: 5f2cee103c351d241a0831fc84f28941,
+      type: 3}
+  - <Name>k__BackingField: BookShelf
+    <ID>k__BackingField: 4
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 100000, guid: 025f4e283fb576840aa96c4bcdb97ba0,
+      type: 3}
+  - <Name>k__BackingField: Book
+    <ID>k__BackingField: 5
+    <Size>k__BackingField: {x: 2, y: 1}
+    <Prefab>k__BackingField: {fileID: 919132149155446097, guid: 822d3ad7e0a1b564ca16818e639ce1b8,
+      type: 3}
